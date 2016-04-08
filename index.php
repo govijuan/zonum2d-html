@@ -11,10 +11,18 @@
 		<!--[if lt IE 7]>
  
 		<link rel="stylesheet" type="text/css" media="all" href="css/ie6.css"/><![endif]-->
+		<link rel="stylesheet" type="text/css" media="all" href="css/zonum.css"/>
+		<script src="js/jquery.min.js"></script>
+		<script src="js/zonum.js"></script>
 
 	</head>
 
 	<body>
+	
+	<div class="main home z-background">
+	<!--<div class="home-background"><img src="img/backgrounds/11.jpg"/></div> -->
+	funciona
+	</div>
 	</body>
 
 </html>

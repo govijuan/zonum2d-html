@@ -20,8 +20,11 @@
 	<body>
 	
 	<div class="main home z-background">
-	<!--<div class="home-background"><img src="img/backgrounds/11.jpg"/></div> -->
-	funciona
+		<div class="ani-h-logo-wrap">
+			<object>
+				<embed src="img/svgs/logo-zonum-home-anim.svg">			
+			</object>
+		</div>	
 	</div>
 	</body>
 
